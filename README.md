@@ -1,3 +1,2 @@
-# local_rush
-
-A new Flutter project.
+# local-rush
+Local Rush Food Delivery App
